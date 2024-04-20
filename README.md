@@ -1,8 +1,6 @@
 # Book Recommender System
 ![Cover](https://github.com/Torin99/Book-Recommender-System/assets/87572723/e37601ec-76de-4629-8114-7f01c15e8147)
 
-# Book Recommender System Project
-
 ## Overview:
 This project aims to develop a book recommender system using knowledge-based and reinforcement learning techniques. The system utilizes a dataset containing information about books, ratings given by users, and user demographics.
 
